@@ -1,0 +1,55 @@
+{
+    "question":[
+        {"id": 1, "page": 1, "question":"나는 SNS를 하루에"},
+        {"id": 2, "page": 2, "question":"내 계정은 어떤 유형?"},
+        {"id": 3, "page": 3, "question":"내가 SNS를 할 때 가장 신경쓰는 것은?"},
+        {"id": 4, "page": 4, "question":"친구에게 언팔을 당했다"},
+        {"id": 5, "page": 5, "question":"SNS에서의 나와 현실에서의 나는"},
+        {"id": 6, "page": 6, "question":"현생이 바빠졌다!"},
+        {"id": 7, "page": 7, "question":"SNS 친구가 마음에 들지 않는다"},
+        {"id": 8, "page": 8, "question":"나는 SNS 계정 분리를"},
+        {"id": 9, "page": 9, "question":"이런 테스트를 발견하면 나는"},
+        {"id": 10, "page": 10, "question":"SNS에서 욕을 먹는다면"}
+    ],
+    "answer":[
+        {"id": 1, "page": 1, "num": 1, "answer":"한시간 미만으로 한다", "result": ["icecream", "jam", "noodles"]},
+        {"id": 2, "page": 1, "num": 2, "answer":"1-3시간 한다", "result": ["candy", "pudding"]},
+        {"id": 3, "page": 1, "num": 3, "answer":"수시로 들어간다", "result": ["chewing-gum", "fried-chicken", "sandwich"]},
+
+        {"id": 4, "page": 2, "num": 1, "answer":"묵묵히 구독만 하는 구독계", "result": "icecream"},
+        {"id": 5, "page": 2, "num": 2, "answer":"내 얘기 천지! 사담 일상계", "result": ["chewing-gum", "candy", "noodles"]},
+        {"id": 6, "page": 2, "num": 3, "answer":"내 사랑을 표현하고파! 사랑 가득 덕질계", "result": ["jam", "pudding"]},
+        {"id": 7, "page": 2, "num": 4, "answer":"온갖 얘기 다 하는 짬뽕계", "result": ["fried-chicken", "sandwich"]},
+
+        {"id": 8, "page": 3, "num": 1, "answer":"내 타임라인의 컨셉", "result": "candy"},
+        {"id": 9, "page": 3, "num": 2, "answer":"팔로워 수", "result": "chewing-gum"},
+        {"id": 10, "page": 3, "num": 3, "answer":"좋아요 수", "result": ["fried-chicken", "pudding", "sandwich"]},
+        {"id": 11, "page": 3, "num": 4, "answer":"SNS에 신경을 왜 써?", "result": ["jam", "icecream", "noodles"]},
+
+        {"id": 12, "page": 4, "num": 1, "answer":"몇 날 며칠 동안 속생해한다", "result": ["chewing-gum", "pudding"]},
+        {"id": 13, "page": 4, "num": 2, "answer":"오는 인연 안 막고 가는 인연 안 잡는다 잘 가라~", "result": ["icecream", "candy", "noodles"]},
+        {"id": 14, "page": 4, "num": 3, "answer":"다른 사람에게 더 언팔 당하지 않게 당분간 사린다", "result": ["jam", "fried-chicken", "sandwich"]},
+
+        {"id": 15, "page": 5, "num": 1, "answer":"많이 다르다", "result": "candy"},
+        {"id": 16, "page": 5, "num": 2, "answer":"비슷하다", "result": ["chewing-gum", "fried-chicken", "jam", "icecream", "pudding", "sandwich", "noodles"]},
+
+        {"id": 17, "page": 6, "num": 1, "answer":"당분간 못 들어올 것 같다고 글을 올린다", "result": ["fried-chicken", "chewing-gum", "candy", "sandwich"]},
+        {"id": 18, "page": 6, "num": 2, "answer":"친한 사람들에게만 디엠으로 얘기한다", "result": ["jam", "pudding"]},
+        {"id": 19, "page": 6, "num": 3, "answer":"SNS는 신경도 안 쓰인다", "result": ["icecream", "noodles"]},
+
+        {"id": 20, "page": 7, "num": 1, "answer":"조용히 언팔한다", "result": ["candy", "icecream", "noodles"]},
+        {"id": 21, "page": 7, "num": 2, "answer":"우린 잘 맞지 않는 것 같다고 디엠한다", "result": "jam"},
+        {"id": 22, "page": 7, "num": 3, "answer":"맘에 들지 않아도 한 번 친구는 영원한 친구! 계속 탐라에 둔다", "result": ["fried-chicken", "chewing-gum", "pudding", "sandwich"]},
+
+        {"id": 23, "page": 8, "num": 1, "answer":"해놓았다", "result": ["candy", "jam", "pudding"]},
+        {"id": 24, "page": 8, "num": 2, "answer":"하지 않았다", "result": ["chewing-gum", "fried-chicken", "icecream", "sandwich", "noodles"]},
+
+        {"id": 25, "page": 9, "num": 1, "answer":"친구들에게 보여주려고 결과를 공유한다", "result": ["fried-chicken", "chewing-gum", "candy", "pudding", "sandwich"]},
+        {"id": 26, "page": 9, "num": 2, "answer":"혼자 조용히 하고 만다", "result": ["jam", "icecream", "noodles"]},
+
+        {"id": 27, "page": 10, "num": 1, "answer":"무서워서 계정을 폭파한다", "result": "fried-chicken"},
+        {"id": 28, "page": 10, "num": 2, "answer":"난 그런 사람이 아니라고 탐라에 설명한다", "result": ["jam", "candy", "sandwich"]},
+        {"id": 29, "page": 10, "num": 3, "answer":"후다닥 사과문을 올린다", "result": "chewing-gum"},
+        {"id": 30, "page": 10, "num": 4, "answer":"무시한다", "result": ["icecream", "pudding", "noodles"]}
+    ]
+}
