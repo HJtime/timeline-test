@@ -37,7 +37,13 @@ const Result = () => {
 
             <button className='btn-start restart' onClick={()=>{
                 navigate('/qna');
-            }}>다시하기<i className="fas fa-redo-alt"></i></button>
+        }}>다시하기<i className="fas fa-redo-alt"></i></button>
+
+            <div className="donaricano">
+                <a href="https://donaricano.com/creator/hjtime86" target="_blank">
+                    <img src="https://d1u4yishnma8v5.cloudfront.net/donarincano_gift.png" alt="donaricano-btn"/>
+                </a>
+            </div>
 
             <div className='hjtime-info'>
                 <a href="https://blog.naver.com/hj_time/222614981685" target="_blank">

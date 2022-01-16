@@ -1,3 +1,18 @@
+## 개요
+REACT로 만든 유형 테스트 페이지[VIEW](https://hjtime.github.io/timeline-test/)
+
+## SKILL
+* REACT
+
+## 기능
+1. react-router를 사용한 페이지 간 이동
+2. json 파일 읽어오기
+3. 결과 매치
+4. SNS 공유 기능
+
+## 실행 화면
+![결과화면](https://user-images.githubusercontent.com/72139168/149657402-ace96009-bb20-4676-b2c6-06b62a04c1e1.gif)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
