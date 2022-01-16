@@ -7,7 +7,7 @@ const Result = () => {
     const location=useLocation();
     const result=location.state;
 
-    const currentUrl = "https://hjtime.github.io/timeline-test-site";
+    const currentUrl = "https://hjtime.github.io/timeline-test";
 
     return (
         <div className='result'>
