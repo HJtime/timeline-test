@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/timeline-test/static/css/main.4b1b9294.css",
+    "main.js": "/timeline-test/static/js/main.a8618408.js",
+    "static/media/Pretendard-Medium.otf": "/timeline-test/static/media/Pretendard-Medium.bcebdfe0d3918708aa5d.otf",
+    "static/media/Pretendard-SemiBold.otf": "/timeline-test/static/media/Pretendard-SemiBold.9009f5d2e39a2d3bdaf6.otf",
+    "static/media/Pretendard-Bold.otf": "/timeline-test/static/media/Pretendard-Bold.e75150e686324d4f5c03.otf",
+    "static/media/Pretendard-Regular.otf": "/timeline-test/static/media/Pretendard-Regular.ca2c5a97ebe998670619.otf",
+    "static/media/Pretendard-Black.otf": "/timeline-test/static/media/Pretendard-Black.8212e72d9b3f80b6a8f2.otf",
+    "static/media/Pretendard-Light.otf": "/timeline-test/static/media/Pretendard-Light.dac3138bfaaad8d39a9d.otf",
+    "static/media/Pretendard-ExtraLight.otf": "/timeline-test/static/media/Pretendard-ExtraLight.95ae447d2b98aa931759.otf",
+    "static/media/Pretendard-Thin.otf": "/timeline-test/static/media/Pretendard-Thin.f44077c5aeb8383c9ba8.otf",
+    "static/media/Pretendard-Black.woff": "/timeline-test/static/media/Pretendard-Black.78d9f24400b70da75d37.woff",
+    "static/media/Pretendard-Bold.woff": "/timeline-test/static/media/Pretendard-Bold.d0f80e7ac3933bfbf45d.woff",
+    "static/media/Pretendard-SemiBold.woff": "/timeline-test/static/media/Pretendard-SemiBold.3fb6e3741b5dffea918e.woff",
+    "static/media/Pretendard-Medium.woff": "/timeline-test/static/media/Pretendard-Medium.a2ef0b28cc457c109381.woff",
+    "static/media/Pretendard-Regular.woff": "/timeline-test/static/media/Pretendard-Regular.371a053f6fa19004d5fa.woff",
+    "static/media/Pretendard-Light.woff": "/timeline-test/static/media/Pretendard-Light.e90933d161baef9945bf.woff",
+    "static/media/Pretendard-ExtraLight.woff": "/timeline-test/static/media/Pretendard-ExtraLight.c4a5b6406da33f9e87cd.woff",
+    "static/media/Pretendard-Thin.woff": "/timeline-test/static/media/Pretendard-Thin.36a510183103a4487799.woff",
+    "static/media/GmarketSansBold.otf": "/timeline-test/static/media/GmarketSansBold.03ceab7804dad3e86672.otf",
+    "static/media/GmarketSansMedium.otf": "/timeline-test/static/media/GmarketSansMedium.3b975ddd58dcbe363ee5.otf",
+    "static/media/GmarketSansLight.otf": "/timeline-test/static/media/GmarketSansLight.5d3bc33796f1cb3705f8.otf",
+    "static/media/Pretendard-Black.woff2": "/timeline-test/static/media/Pretendard-Black.aaa76c4a6ca9efc94d1a.woff2",
+    "static/media/Pretendard-Bold.woff2": "/timeline-test/static/media/Pretendard-Bold.6b164eb09ac66559881e.woff2",
+    "static/media/Pretendard-SemiBold.woff2": "/timeline-test/static/media/Pretendard-SemiBold.77dc78f65aa11d9abc37.woff2",
+    "static/media/Pretendard-Medium.woff2": "/timeline-test/static/media/Pretendard-Medium.59b075f096b9d3f4d25e.woff2",
+    "static/media/Pretendard-Regular.woff2": "/timeline-test/static/media/Pretendard-Regular.0c7ef87f67b575118ed9.woff2",
+    "static/media/Pretendard-Light.woff2": "/timeline-test/static/media/Pretendard-Light.f63725c2aff140ea2706.woff2",
+    "static/media/Pretendard-ExtraLight.woff2": "/timeline-test/static/media/Pretendard-ExtraLight.e2816fb65d32738bf731.woff2",
+    "static/media/GmarketSansBold.woff": "/timeline-test/static/media/GmarketSansBold.8f48647656836db16e6c.woff",
+    "static/media/GmarketSansMedium.woff": "/timeline-test/static/media/GmarketSansMedium.e8fdaca6e7179311bb93.woff",
+    "static/media/GmarketSansLight.woff": "/timeline-test/static/media/GmarketSansLight.e2c3b93bd02a05f8eb08.woff",
+    "index.html": "/timeline-test/index.html",
+    "main.4b1b9294.css.map": "/timeline-test/static/css/main.4b1b9294.css.map",
+    "main.a8618408.js.map": "/timeline-test/static/js/main.a8618408.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b1b9294.css",
+    "static/js/main.a8618408.js"
+  ]
+}
