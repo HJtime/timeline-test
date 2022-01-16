@@ -304,6 +304,12 @@ body{
     height: 90px!important;
 }
 
+.count{
+    position: absolute;
+    left: 1.5rem;
+    top: 1.5rem;
+}
+
 @media screen and (max-width: 48rem){
     html{
         font-size: 13px;
